@@ -1,0 +1,15 @@
+D:\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe.config
+D:\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.exe
+D:\VGAPainter-master\VGAPainter\bin\Debug\VGAPainter.pdb
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.csproj.AssemblyReference.cache
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.csproj.SuggestedBindingRedirects.cache
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Dialogs.AboutBox.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Dialogs.ImportDialog.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Dialogs.ProgressBox.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Forms.MainForm.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Dialogs.NewArtwork.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.Properties.Resources.resources
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.csproj.GenerateResource.cache
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.csproj.CoreCompileInputs.cache
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.exe
+D:\VGAPainter-master\VGAPainter\obj\Debug\VGAPainter.pdb
