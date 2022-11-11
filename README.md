@@ -1,4 +1,4 @@
-# VGAPainter
+# 🎨 VGAPainter
 
 
 **This prodject was orgianlly archived by the owner! This is a reupload and is more to be updated!**
@@ -7,10 +7,10 @@
 ❓ This is a painter program, expect for some people, can make a vga pictures with it!
 
 
-🗒️ ``` Program made in: Visual Studio 2022   Type: C# ```
+🗒️ ```Program made in: Visual Studio 2022```
 
 
-🙋‍♂️ itisrazza
+🙋‍♂️ `itisrazza`
 
 
 💻 Windows 7 to 10 (64 bit only!)
